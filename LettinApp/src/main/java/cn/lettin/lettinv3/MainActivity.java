@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import cn.lettin.lettinlibs.LettinNetwork;
+import cn.lettin.liblettin.LettinNetwork;
 
 public class MainActivity extends AppCompatActivity{
 
