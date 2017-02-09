@@ -1,1 +1,1 @@
-include ':LettinApp'
+include ':LettinApp', ':libLettin'

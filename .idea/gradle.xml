@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/LettinApp" />
+            <option value="$PROJECT_DIR$/libLettin" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
